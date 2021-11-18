@@ -74,6 +74,14 @@
     filter: grayscale(.7) sepia(.5);
 }
 
+.ex-8-img {
+    transition: 2s;
+}
+.ex-8-img:hover {
+    filter: grayscale(.7) sepia(.5);
+    border-radius: 30px;
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
